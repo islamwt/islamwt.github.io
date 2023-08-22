@@ -6,13 +6,4 @@
     "sha256_cert_fingerprints":
     ["96:7F:6A:3D:D7:D2:C5:A4:19:AF:E9:CD:FE:49:B6:FE:49:B0:A8:27:69:89:2A:0F:0B:98:89:1C:FE:61:FC:6B"]
   }
-},
-{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "ca.sharpmobile.best",
-    "sha256_cert_fingerprints":
-    ["96:7F:6A:3D:D7:D2:C5:A4:19:AF:E9:CD:FE:49:B6:FE:49:B0:A8:27:69:89:2A:0F:0B:98:89:1C:FE:61:FC:6B"]
-  }
 }]
